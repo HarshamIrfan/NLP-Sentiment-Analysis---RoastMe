@@ -81,7 +81,7 @@ streamlit run app.py
 ## 🙌 Acknowledgments
 
 - Inspired by tech roast memes, StackOverflow sarcasm, and love for NLP 🤓
-- GIFs sourced from [Giphy](https://giphy.com) for extra spice
+- GIFs sourced from [Tenor](https://tenor.com/) for extra spice
 
 ---
 
