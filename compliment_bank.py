@@ -45,7 +45,7 @@ neutral_compliments = [
     "You're like a class that just works. 🏷️"
 ]
 
-negative_comforts = [
+negative_compliments = [
     "Hey, it’s okay to crash sometimes — even systems reboot stronger. 💪",
     "You're not broken, just debugging life. 🛠️💖",
     "Even in sadness, your soul still glows. 🌙",
