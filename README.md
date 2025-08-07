@@ -1,4 +1,4 @@
-# 🌀 MoodSwing: NLP Sentiment Analysis – RoastMe 🤖
+# 🌀 MoodSwing: NLP Sentiment Analysis 🤖
 
 **MoodSwing** is a fun and sassy NLP-powered web app that roasts or compliments users based on the sentiment of their input — or lets them override the mood with an emoji-style slider.
 
@@ -80,7 +80,7 @@ streamlit run app.py
 
 ## 🙌 Acknowledgments
 
-- Inspired by tech roast memes, StackOverflow sarcasm, and love for NLP 🤓
+- Made as an assignment during ML Training conducted.
 - GIFs sourced from [Tenor](https://tenor.com/) for extra spice
 
 ---
@@ -94,4 +94,4 @@ GitHub: [@HarshamIrfan](https://github.com/HarshamIrfan)
 
 ## 🪄 License
 
-MIT License – use it, remix it, deploy it, just give credit. 😉
+MIT License – use it, remix it, deploy it, just give credit. 
